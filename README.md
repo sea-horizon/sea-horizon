@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My github stats](https://github-readme-stats.vercel.app/api?username=sea-horizon&count_private=true&include_all_commits=true&show_icons=true&title_color=#0000ff&icon_color=#0066ff)](https://github.com/sea-horizon)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sea-horizon)](https://github.com/sea-horizon)
 <!--
 **sea-horizon/sea-horizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
